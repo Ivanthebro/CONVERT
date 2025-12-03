@@ -1,0 +1,249 @@
+{
+  "Orders": {
+    "OrderRequest": [
+      {
+        "OrderHeader": {
+          "ClientInformation": {
+            "ClientID": "LJ_RUZIC_JEDINICA_1",
+            "DeliveryPoint": "Split",
+            "Username": null,
+            "Password": null
+          },
+          "ReferenceNumber": "TRANSFER-2024-09-25",
+          "DocumentDate": "2024-09-25"
+        },
+        "OrderLine": {
+          "RequestOrderLine": [
+            {
+              "ArticleNumber": "26577",
+              "EAN": "21",
+              "ATK": "85",
+              "PharmacyArticleName": "ORONAZOL sampon",
+              "OrderQuantity": 55
+            },
+            {
+              "ArticleNumber": "75534",
+              "EAN": "33",
+              "ATK": "19",
+              "PharmacyArticleName": "ARTHROSUPPORT Intensive 60 tbl",
+              "OrderQuantity": 50
+            },
+            {
+              "ArticleNumber": "26568",
+              "EAN": "47",
+              "ATK": "62",
+              "PharmacyArticleName": "IBUDOLOR Direkt 400mg",
+              "OrderQuantity": 20
+            },
+            {
+              "ArticleNumber": "04126",
+              "EAN": "10",
+              "ATK": "04",
+              "PharmacyArticleName": "IMMUN 44 sirup 300ml",
+              "OrderQuantity": 3
+            },
+            {
+              "ArticleNumber": "22969",
+              "EAN": "56",
+              "ATK": "28",
+              "PharmacyArticleName": "ITAMI 140MG 5kom",
+              "OrderQuantity": 5
+            },
+            {
+              "ArticleNumber": "13148",
+              "EAN": "72",
+              "ATK": "14",
+              "PharmacyArticleName": "PROSTENAL CONTROL TAB 60pcs",
+              "OrderQuantity": 5
+            },
+            {
+              "ArticleNumber": "02106",
+              "EAN": "91",
+              "ATK": "30",
+              "PharmacyArticleName": "ZALDIAR 37,5mg/325mg tbl a'30",
+              "OrderQuantity": 250
+            },
+            {
+              "ArticleNumber": "02108",
+              "EAN": "63",
+              "ATK": "71",
+              "PharmacyArticleName": "ZALDIAR 37,5mg/325mg tbl a'50",
+              "OrderQuantity": 20
+            }
+          ]
+        }
+      },
+      {
+        "OrderHeader": {
+          "ClientInformation": {
+            "ClientID": "LJ_RUZIC_JEDINICA_2",
+            "DeliveryPoint": "Zadar",
+            "Username": null,
+            "Password": null
+          },
+          "ReferenceNumber": "TRANSFER-2024-10-01",
+          "DocumentDate": "2024-10-01"
+        },
+        "OrderLine": {
+          "RequestOrderLine": [
+            {
+              "ArticleNumber": "55421",
+              "EAN": "11",
+              "ATK": "88",
+              "PharmacyArticleName": "MAGNEZIJ 375MG 20 sumecih",
+              "OrderQuantity": 40
+            },
+            {
+              "ArticleNumber": "90012",
+              "EAN": "44",
+              "ATK": "57",
+              "PharmacyArticleName": "VITAMIN C 1000MG",
+              "OrderQuantity": 100
+            }
+          ]
+        }
+      },
+      {
+        "OrderHeader": {
+          "ClientInformation": {
+            "ClientID": "LJ_RUZIC_JEDINICA_3",
+            "DeliveryPoint": "Dubrovnik",
+            "Username": null,
+            "Password": null
+          },
+          "ReferenceNumber": "TRANSFER-2024-10-10",
+          "DocumentDate": "2024-10-10"
+        },
+        "OrderLine": {
+          "RequestOrderLine": [
+            {
+              "ArticleNumber": "33011",
+              "EAN": "52",
+              "ATK": "09",
+              "PharmacyArticleName": "PARACETAMOL 500MG 50tbl",
+              "OrderQuantity": 70
+            },
+            {
+              "ArticleNumber": "44882",
+              "EAN": "87",
+              "ATK": "41",
+              "PharmacyArticleName": "NEOFEN 200MG 20 kaps",
+              "OrderQuantity": 30
+            },
+            {
+              "ArticleNumber": "99001",
+              "EAN": "05",
+              "ATK": "22",
+              "PharmacyArticleName": "BIOTIN 5MG 60tbl",
+              "OrderQuantity": 25
+            }
+          ]
+        }
+      },
+      {
+        "OrderHeader": {
+          "ClientInformation": {
+            "ClientID": "LJ_RUZIC_JEDINICA_4",
+            "DeliveryPoint": "Sibenik",
+            "Username": null,
+            "Password": null
+          },
+          "ReferenceNumber": "TRANSFER-2024-10-18",
+          "DocumentDate": "2024-10-18"
+        },
+        "OrderLine": {
+          "RequestOrderLine": [
+            {
+              "ArticleNumber": "77102",
+              "EAN": "39",
+              "ATK": "12",
+              "PharmacyArticleName": "KAPSULE OMEGA 3 1000mg",
+              "OrderQuantity": 60
+            },
+            {
+              "ArticleNumber": "11345",
+              "EAN": "66",
+              "ATK": "24",
+              "PharmacyArticleName": "VITAMIN D3 2000 IU",
+              "OrderQuantity": 120
+            },
+            {
+              "ArticleNumber": "44991",
+              "EAN": "90",
+              "ATK": "73",
+              "PharmacyArticleName": "COLD STOP sprej",
+              "OrderQuantity": 25
+            }
+          ]
+        }
+      },
+      {
+        "OrderHeader": {
+          "ClientInformation": {
+            "ClientID": "LJ_RUZIC_JEDINICA_5",
+            "DeliveryPoint": "Zagreb",
+            "Username": null,
+            "Password": null
+          },
+          "ReferenceNumber": "TRANSFER-2024-10-22",
+          "DocumentDate": "2024-10-22"
+        },
+        "OrderLine": {
+          "RequestOrderLine": [
+            {
+              "ArticleNumber": "55219",
+              "EAN": "48",
+              "ATK": "16",
+              "PharmacyArticleName": "PANTOPRAZOL 20mg 14 tbl",
+              "OrderQuantity": 90
+            },
+            {
+              "ArticleNumber": "66221",
+              "EAN": "20",
+              "ATK": "81",
+              "PharmacyArticleName": "NORMABEL 5mg 30 tbl",
+              "OrderQuantity": 45
+            }
+          ]
+        }
+      },
+      {
+        "OrderHeader": {
+          "ClientInformation": {
+            "ClientID": "LJ_RUZIC_JEDINICA_6",
+            "DeliveryPoint": "Pula",
+            "Username": null,
+            "Password": null
+          },
+          "ReferenceNumber": "TRANSFER-2024-10-29",
+          "DocumentDate": "2024-10-29"
+        },
+        "OrderLine": {
+          "RequestOrderLine": [
+            {
+              "ArticleNumber": "88001",
+              "EAN": "34",
+              "ATK": "07",
+              "PharmacyArticleName": "GLUKOZAMIN + MSM 90 kaps",
+              "OrderQuantity": 35
+            },
+            {
+              "ArticleNumber": "30012",
+              "EAN": "58",
+              "ATK": "43",
+              "PharmacyArticleName": "KREMA ZA KOZU 5% UREA",
+              "OrderQuantity": 50
+            },
+            {
+              "ArticleNumber": "99110",
+              "EAN": "76",
+              "ATK": "31",
+              "PharmacyArticleName": "DIJABETICKI SET igle 100 kom",
+              "OrderQuantity": 15
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

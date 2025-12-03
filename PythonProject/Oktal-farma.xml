@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+    <OrderRequest>
+        <OrderHeader>
+            <ClientInformation>
+                <ClientID>LJ_RUZIC_JEDINICA_1</ClientID>
+                <DeliveryPoint>Split</DeliveryPoint>
+                <Username></Username>
+                <Password></Password>
+            </ClientInformation>
+            <ReferenceNumber>TRANSFER-2024-09-25</ReferenceNumber>
+            <DocumentDate>2024-09-25</DocumentDate>
+        </OrderHeader>
+        <OrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>26577</ArticleNumber>
+                <EAN>21</EAN>
+                <ATK>85</ATK>
+                <PharmacyArticleName>ORONAZOL sampon</PharmacyArticleName>
+                <OrderQuantity>55</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>75534</ArticleNumber>
+                <EAN>33</EAN>
+                <ATK>19</ATK>
+                <PharmacyArticleName>ARTHROSUPPORT Intensive 60 tbl</PharmacyArticleName>
+                <OrderQuantity>50</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>26568</ArticleNumber>
+                <EAN>47</EAN>
+                <ATK>62</ATK>
+                <PharmacyArticleName>IBUDOLOR Direkt 400mg</PharmacyArticleName>
+                <OrderQuantity>20</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>04126</ArticleNumber>
+                <EAN>10</EAN>
+                <ATK>04</ATK>
+                <PharmacyArticleName>IMMUN 44 sirup 300ml</PharmacyArticleName>
+                <OrderQuantity>3</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>22969</ArticleNumber>
+                <EAN>56</EAN>
+                <ATK>28</ATK>
+                <PharmacyArticleName>ITAMI 140MG 5kom</PharmacyArticleName>
+                <OrderQuantity>5</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>13148</ArticleNumber>
+                <EAN>72</EAN>
+                <ATK>14</ATK>
+                <PharmacyArticleName>PROSTENAL CONTROL TAB 60pcs</PharmacyArticleName>
+                <OrderQuantity>5</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>02106</ArticleNumber>
+                <EAN>91</EAN>
+                <ATK>30</ATK>
+                <PharmacyArticleName>ZALDIAR 37,5mg/325mg tbl a'30</PharmacyArticleName>
+                <OrderQuantity>250</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>02108</ArticleNumber>
+                <EAN>63</EAN>
+                <ATK>71</ATK>
+                <PharmacyArticleName>ZALDIAR 37,5mg/325mg tbl a'50</PharmacyArticleName>
+                <OrderQuantity>20</OrderQuantity>
+            </RequestOrderLine>
+
+        </OrderLine>
+    </OrderRequest>
+
+    <OrderRequest>
+        <OrderHeader>
+            <ClientInformation>
+                <ClientID>LJ_RUZIC_JEDINICA_2</ClientID>
+                <DeliveryPoint>Zadar</DeliveryPoint>
+                <Username></Username>
+                <Password></Password>
+            </ClientInformation>
+            <ReferenceNumber>TRANSFER-2024-10-01</ReferenceNumber>
+            <DocumentDate>2024-10-01</DocumentDate>
+        </OrderHeader>
+        <OrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>55421</ArticleNumber>
+                <EAN>11</EAN>
+                <ATK>88</ATK>
+                <PharmacyArticleName>MAGNEZIJ 375MG 20 sumecih</PharmacyArticleName>
+                <OrderQuantity>40</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>90012</ArticleNumber>
+                <EAN>44</EAN>
+                <ATK>57</ATK>
+                <PharmacyArticleName>VITAMIN C 1000MG</PharmacyArticleName>
+                <OrderQuantity>100</OrderQuantity>
+            </RequestOrderLine>
+
+        </OrderLine>
+    </OrderRequest>
+
+    <OrderRequest>
+        <OrderHeader>
+            <ClientInformation>
+                <ClientID>LJ_RUZIC_JEDINICA_3</ClientID>
+                <DeliveryPoint>Dubrovnik</DeliveryPoint>
+                <Username></Username>
+                <Password></Password>
+            </ClientInformation>
+            <ReferenceNumber>TRANSFER-2024-10-10</ReferenceNumber>
+            <DocumentDate>2024-10-10</DocumentDate>
+        </OrderHeader>
+        <OrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>33011</ArticleNumber>
+                <EAN>52</EAN>
+                <ATK>09</ATK>
+                <PharmacyArticleName>PARACETAMOL 500MG 50tbl</PharmacyArticleName>
+                <OrderQuantity>70</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>44882</ArticleNumber>
+                <EAN>87</EAN>
+                <ATK>41</ATK>
+                <PharmacyArticleName>NEOFEN 200MG 20 kaps</PharmacyArticleName>
+                <OrderQuantity>30</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>99001</ArticleNumber>
+                <EAN>05</EAN>
+                <ATK>22</ATK>
+                <PharmacyArticleName>BIOTIN 5MG 60tbl</PharmacyArticleName>
+                <OrderQuantity>25</OrderQuantity>
+            </RequestOrderLine>
+
+        </OrderLine>
+    </OrderRequest>
+
+    <OrderRequest>
+        <OrderHeader>
+            <ClientInformation>
+                <ClientID>LJ_RUZIC_JEDINICA_4</ClientID>
+                <DeliveryPoint>Sibenik</DeliveryPoint>
+                <Username></Username>
+                <Password></Password>
+            </ClientInformation>
+            <ReferenceNumber>TRANSFER-2024-10-18</ReferenceNumber>
+            <DocumentDate>2024-10-18</DocumentDate>
+        </OrderHeader>
+        <OrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>77102</ArticleNumber>
+                <EAN>39</EAN>
+                <ATK>12</ATK>
+                <PharmacyArticleName>KAPSULE OMEGA 3 1000mg</PharmacyArticleName>
+                <OrderQuantity>60</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>11345</ArticleNumber>
+                <EAN>66</EAN>
+                <ATK>24</ATK>
+                <PharmacyArticleName>VITAMIN D3 2000 IU</PharmacyArticleName>
+                <OrderQuantity>120</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>44991</ArticleNumber>
+                <EAN>90</EAN>
+                <ATK>73</ATK>
+                <PharmacyArticleName>COLD STOP sprej</PharmacyArticleName>
+                <OrderQuantity>25</OrderQuantity>
+            </RequestOrderLine>
+
+        </OrderLine>
+    </OrderRequest>
+
+    <OrderRequest>
+        <OrderHeader>
+            <ClientInformation>
+                <ClientID>LJ_RUZIC_JEDINICA_5</ClientID>
+                <DeliveryPoint>Zagreb</DeliveryPoint>
+                <Username></Username>
+                <Password></Password>
+            </ClientInformation>
+            <ReferenceNumber>TRANSFER-2024-10-22</ReferenceNumber>
+            <DocumentDate>2024-10-22</DocumentDate>
+        </OrderHeader>
+        <OrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>55219</ArticleNumber>
+                <EAN>48</EAN>
+                <ATK>16</ATK>
+                <PharmacyArticleName>PANTOPRAZOL 20mg 14 tbl</PharmacyArticleName>
+                <OrderQuantity>90</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>66221</ArticleNumber>
+                <EAN>20</EAN>
+                <ATK>81</ATK>
+                <PharmacyArticleName>NORMABEL 5mg 30 tbl</PharmacyArticleName>
+                <OrderQuantity>45</OrderQuantity>
+            </RequestOrderLine>
+
+        </OrderLine>
+    </OrderRequest>
+
+    <OrderRequest>
+        <OrderHeader>
+            <ClientInformation>
+                <ClientID>LJ_RUZIC_JEDINICA_6</ClientID>
+                <DeliveryPoint>Pula</DeliveryPoint>
+                <Username></Username>
+                <Password></Password>
+            </ClientInformation>
+            <ReferenceNumber>TRANSFER-2024-10-29</ReferenceNumber>
+            <DocumentDate>2024-10-29</DocumentDate>
+        </OrderHeader>
+        <OrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>88001</ArticleNumber>
+                <EAN>34</EAN>
+                <ATK>07</ATK>
+                <PharmacyArticleName>GLUKOZAMIN + MSM 90 kaps</PharmacyArticleName>
+                <OrderQuantity>35</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>30012</ArticleNumber>
+                <EAN>58</EAN>
+                <ATK>43</ATK>
+                <PharmacyArticleName>KREMA ZA KOZU 5% UREA</PharmacyArticleName>
+                <OrderQuantity>50</OrderQuantity>
+            </RequestOrderLine>
+
+            <RequestOrderLine>
+                <ArticleNumber>99110</ArticleNumber>
+                <EAN>76</EAN>
+                <ATK>31</ATK>
+                <PharmacyArticleName>DIJABETICKI SET igle 100 kom</PharmacyArticleName>
+                <OrderQuantity>15</OrderQuantity>
+            </RequestOrderLine>
+
+        </OrderLine>
+    </OrderRequest>
+
+</Orders>

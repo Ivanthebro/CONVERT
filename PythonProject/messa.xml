@@ -1,0 +1,83 @@
+```
+<OrderRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OrderHeader>
+    <ClientInformation>
+      <ClientID>2B8700</ClientID>
+      <DeliveryPoint>2B8700</DeliveryPoint>
+      <Username>some_user</Username>
+      <Password>some_pass</Password>
+    </ClientInformation>
+    <ReferenceNumber>540</ReferenceNumber>
+    <DocumentDate>2025-09-18T00:00:00</DocumentDate>
+  </OrderHeader>
+  <OrderLine>
+    <RequestOrderLine>
+      <ArticleNumber>64781</ArticleNumber>
+      <EAN>3857500065278</EAN>
+      <PharmacyArticleName>BE NATUR IONIC MG SPREJ 100 ML</PharmacyArticleName>
+      <OrderQuantity>2.000000</OrderQuantity>
+    </RequestOrderLine>
+    <RequestOrderLine>
+      <ArticleNumber>04566</ArticleNumber>
+      <ATK>G04BD12162</ATK>
+      <PharmacyArticleName>BETMIGA TBL. 30X50 MG</PharmacyArticleName>
+      <OrderQuantity>5.000000</OrderQuantity>
+    </RequestOrderLine>
+    <RequestOrderLine>
+      <ArticleNumber>11374</ArticleNumber>
+      <PharmacyArticleName>BIOLECTRA MG 400 DIREKT GRANULE A 20</PharmacyArticleName>
+      <OrderQuantity>3.000000</OrderQuantity>
+    </RequestOrderLine>
+  </OrderLine>
+</OrderRequest>
+
+
+<OrderRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OrderHeader>
+    <ClientInformation>
+      <ClientID>4005</ClientID>
+      <DeliveryPoint>4056</DeliveryPoint>
+      <Username>some_user</Username>
+      <Password>some_pass</Password>
+    </ClientInformation>
+    <ReferenceNumber>13900</ReferenceNumber>
+    <DocumentDate>2025-09-18T00:00:00</DocumentDate>
+  </OrderHeader>
+  <OrderLine>
+    <RequestOrderLine>
+      <ArticleNumber>11839</ArticleNumber>
+      <ATK>L02BB04162</ATK>
+      <PharmacyArticleName>XTANDI TBL. FILM OBL. 112X40 MG /PSL-VAN LIMITA</PharmacyArticleName>
+      <OrderQuantity>1.000000</OrderQuantity>
+    </RequestOrderLine>
+  </OrderLine>
+</OrderRequest>
+
+
+<OrderRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OrderHeader>
+    <ClientInformation>
+      <ClientID>4013</ClientID>
+      <DeliveryPoint>4050</DeliveryPoint>
+      <Username>some_user</Username>
+      <Password>some_pass</Password>
+    </ClientInformation>
+    <ReferenceNumber>5403</ReferenceNumber>
+    <DocumentDate>2025-09-18T00:00:00</DocumentDate>
+  </OrderHeader>
+  <OrderLine>
+    <RequestOrderLine>
+      <ArticleNumber>66336</ArticleNumber>
+      <ATK>V06DX03360</ATK>
+      <PharmacyArticleName>MODULEN IBD 400 G-NAMIRNICE ZA ENT.PR.</PharmacyArticleName>
+      <OrderQuantity>1.000000</OrderQuantity>
+    </RequestOrderLine>
+    <RequestOrderLine>
+      <ArticleNumber>06718</ArticleNumber>
+      <ATK>N07AA02161</ATK>
+      <PharmacyArticleName>MESTINON DRAG 150X60 MG</PharmacyArticleName>
+      <OrderQuantity>1.000000</OrderQuantity>
+    </RequestOrderLine>
+  </OrderLine>
+</OrderRequest>
+```

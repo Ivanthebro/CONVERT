@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<Orders type="dict">
+		<OrderRequest type="list">
+			<item type="dict">
+				<OrderHeader type="dict">
+					<ClientInformation type="dict">
+						<ClientID type="str">LJ_RUZIC_JEDINICA_1</ClientID>
+						<DeliveryPoint type="str">Split</DeliveryPoint>
+						<Username type="null"/>
+						<Password type="null"/>
+					</ClientInformation>
+					<ReferenceNumber type="str">TRANSFER-2024-09-25</ReferenceNumber>
+					<DocumentDate type="str">2024-09-25</DocumentDate>
+				</OrderHeader>
+				<OrderLine type="dict">
+					<RequestOrderLine type="list">
+						<item type="dict">
+							<ArticleNumber type="str">26577</ArticleNumber>
+							<EAN type="str">21</EAN>
+							<ATK type="str">85</ATK>
+							<PharmacyArticleName type="str">ORONAZOL sampon</PharmacyArticleName>
+							<OrderQuantity type="int">55</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">75534</ArticleNumber>
+							<EAN type="str">33</EAN>
+							<ATK type="str">19</ATK>
+							<PharmacyArticleName type="str">ARTHROSUPPORT Intensive 60 tbl</PharmacyArticleName>
+							<OrderQuantity type="int">50</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">26568</ArticleNumber>
+							<EAN type="str">47</EAN>
+							<ATK type="str">62</ATK>
+							<PharmacyArticleName type="str">IBUDOLOR Direkt 400mg</PharmacyArticleName>
+							<OrderQuantity type="int">20</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">04126</ArticleNumber>
+							<EAN type="str">10</EAN>
+							<ATK type="str">04</ATK>
+							<PharmacyArticleName type="str">IMMUN 44 sirup 300ml</PharmacyArticleName>
+							<OrderQuantity type="int">3</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">22969</ArticleNumber>
+							<EAN type="str">56</EAN>
+							<ATK type="str">28</ATK>
+							<PharmacyArticleName type="str">ITAMI 140MG 5kom</PharmacyArticleName>
+							<OrderQuantity type="int">5</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">13148</ArticleNumber>
+							<EAN type="str">72</EAN>
+							<ATK type="str">14</ATK>
+							<PharmacyArticleName type="str">PROSTENAL CONTROL TAB 60pcs</PharmacyArticleName>
+							<OrderQuantity type="int">5</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">02106</ArticleNumber>
+							<EAN type="str">91</EAN>
+							<ATK type="str">30</ATK>
+							<PharmacyArticleName type="str">ZALDIAR 37,5mg/325mg tbl a'30</PharmacyArticleName>
+							<OrderQuantity type="int">250</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">02108</ArticleNumber>
+							<EAN type="str">63</EAN>
+							<ATK type="str">71</ATK>
+							<PharmacyArticleName type="str">ZALDIAR 37,5mg/325mg tbl a'50</PharmacyArticleName>
+							<OrderQuantity type="int">20</OrderQuantity>
+						</item>
+					</RequestOrderLine>
+				</OrderLine>
+			</item>
+			<item type="dict">
+				<OrderHeader type="dict">
+					<ClientInformation type="dict">
+						<ClientID type="str">LJ_RUZIC_JEDINICA_2</ClientID>
+						<DeliveryPoint type="str">Zadar</DeliveryPoint>
+						<Username type="null"/>
+						<Password type="null"/>
+					</ClientInformation>
+					<ReferenceNumber type="str">TRANSFER-2024-10-01</ReferenceNumber>
+					<DocumentDate type="str">2024-10-01</DocumentDate>
+				</OrderHeader>
+				<OrderLine type="dict">
+					<RequestOrderLine type="list">
+						<item type="dict">
+							<ArticleNumber type="str">55421</ArticleNumber>
+							<EAN type="str">11</EAN>
+							<ATK type="str">88</ATK>
+							<PharmacyArticleName type="str">MAGNEZIJ 375MG 20 sumecih</PharmacyArticleName>
+							<OrderQuantity type="int">40</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">90012</ArticleNumber>
+							<EAN type="str">44</EAN>
+							<ATK type="str">57</ATK>
+							<PharmacyArticleName type="str">VITAMIN C 1000MG</PharmacyArticleName>
+							<OrderQuantity type="int">100</OrderQuantity>
+						</item>
+					</RequestOrderLine>
+				</OrderLine>
+			</item>
+			<item type="dict">
+				<OrderHeader type="dict">
+					<ClientInformation type="dict">
+						<ClientID type="str">LJ_RUZIC_JEDINICA_3</ClientID>
+						<DeliveryPoint type="str">Dubrovnik</DeliveryPoint>
+						<Username type="null"/>
+						<Password type="null"/>
+					</ClientInformation>
+					<ReferenceNumber type="str">TRANSFER-2024-10-10</ReferenceNumber>
+					<DocumentDate type="str">2024-10-10</DocumentDate>
+				</OrderHeader>
+				<OrderLine type="dict">
+					<RequestOrderLine type="list">
+						<item type="dict">
+							<ArticleNumber type="str">33011</ArticleNumber>
+							<EAN type="str">52</EAN>
+							<ATK type="str">09</ATK>
+							<PharmacyArticleName type="str">PARACETAMOL 500MG 50tbl</PharmacyArticleName>
+							<OrderQuantity type="int">70</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">44882</ArticleNumber>
+							<EAN type="str">87</EAN>
+							<ATK type="str">41</ATK>
+							<PharmacyArticleName type="str">NEOFEN 200MG 20 kaps</PharmacyArticleName>
+							<OrderQuantity type="int">30</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">99001</ArticleNumber>
+							<EAN type="str">05</EAN>
+							<ATK type="str">22</ATK>
+							<PharmacyArticleName type="str">BIOTIN 5MG 60tbl</PharmacyArticleName>
+							<OrderQuantity type="int">25</OrderQuantity>
+						</item>
+					</RequestOrderLine>
+				</OrderLine>
+			</item>
+			<item type="dict">
+				<OrderHeader type="dict">
+					<ClientInformation type="dict">
+						<ClientID type="str">LJ_RUZIC_JEDINICA_4</ClientID>
+						<DeliveryPoint type="str">Sibenik</DeliveryPoint>
+						<Username type="null"/>
+						<Password type="null"/>
+					</ClientInformation>
+					<ReferenceNumber type="str">TRANSFER-2024-10-18</ReferenceNumber>
+					<DocumentDate type="str">2024-10-18</DocumentDate>
+				</OrderHeader>
+				<OrderLine type="dict">
+					<RequestOrderLine type="list">
+						<item type="dict">
+							<ArticleNumber type="str">77102</ArticleNumber>
+							<EAN type="str">39</EAN>
+							<ATK type="str">12</ATK>
+							<PharmacyArticleName type="str">KAPSULE OMEGA 3 1000mg</PharmacyArticleName>
+							<OrderQuantity type="int">60</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">11345</ArticleNumber>
+							<EAN type="str">66</EAN>
+							<ATK type="str">24</ATK>
+							<PharmacyArticleName type="str">VITAMIN D3 2000 IU</PharmacyArticleName>
+							<OrderQuantity type="int">120</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">44991</ArticleNumber>
+							<EAN type="str">90</EAN>
+							<ATK type="str">73</ATK>
+							<PharmacyArticleName type="str">COLD STOP sprej</PharmacyArticleName>
+							<OrderQuantity type="int">25</OrderQuantity>
+						</item>
+					</RequestOrderLine>
+				</OrderLine>
+			</item>
+			<item type="dict">
+				<OrderHeader type="dict">
+					<ClientInformation type="dict">
+						<ClientID type="str">LJ_RUZIC_JEDINICA_5</ClientID>
+						<DeliveryPoint type="str">Zagreb</DeliveryPoint>
+						<Username type="null"/>
+						<Password type="null"/>
+					</ClientInformation>
+					<ReferenceNumber type="str">TRANSFER-2024-10-22</ReferenceNumber>
+					<DocumentDate type="str">2024-10-22</DocumentDate>
+				</OrderHeader>
+				<OrderLine type="dict">
+					<RequestOrderLine type="list">
+						<item type="dict">
+							<ArticleNumber type="str">55219</ArticleNumber>
+							<EAN type="str">48</EAN>
+							<ATK type="str">16</ATK>
+							<PharmacyArticleName type="str">PANTOPRAZOL 20mg 14 tbl</PharmacyArticleName>
+							<OrderQuantity type="int">90</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">66221</ArticleNumber>
+							<EAN type="str">20</EAN>
+							<ATK type="str">81</ATK>
+							<PharmacyArticleName type="str">NORMABEL 5mg 30 tbl</PharmacyArticleName>
+							<OrderQuantity type="int">45</OrderQuantity>
+						</item>
+					</RequestOrderLine>
+				</OrderLine>
+			</item>
+			<item type="dict">
+				<OrderHeader type="dict">
+					<ClientInformation type="dict">
+						<ClientID type="str">LJ_RUZIC_JEDINICA_6</ClientID>
+						<DeliveryPoint type="str">Pula</DeliveryPoint>
+						<Username type="null"/>
+						<Password type="null"/>
+					</ClientInformation>
+					<ReferenceNumber type="str">TRANSFER-2024-10-29</ReferenceNumber>
+					<DocumentDate type="str">2024-10-29</DocumentDate>
+				</OrderHeader>
+				<OrderLine type="dict">
+					<RequestOrderLine type="list">
+						<item type="dict">
+							<ArticleNumber type="str">88001</ArticleNumber>
+							<EAN type="str">34</EAN>
+							<ATK type="str">07</ATK>
+							<PharmacyArticleName type="str">GLUKOZAMIN + MSM 90 kaps</PharmacyArticleName>
+							<OrderQuantity type="int">35</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">30012</ArticleNumber>
+							<EAN type="str">58</EAN>
+							<ATK type="str">43</ATK>
+							<PharmacyArticleName type="str">KREMA ZA KOZU 5% UREA</PharmacyArticleName>
+							<OrderQuantity type="int">50</OrderQuantity>
+						</item>
+						<item type="dict">
+							<ArticleNumber type="str">99110</ArticleNumber>
+							<EAN type="str">76</EAN>
+							<ATK type="str">31</ATK>
+							<PharmacyArticleName type="str">DIJABETICKI SET igle 100 kom</PharmacyArticleName>
+							<OrderQuantity type="int">15</OrderQuantity>
+						</item>
+					</RequestOrderLine>
+				</OrderLine>
+			</item>
+		</OrderRequest>
+	</Orders>
+</root>

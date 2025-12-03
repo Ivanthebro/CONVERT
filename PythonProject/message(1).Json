@@ -1,0 +1,76 @@
+[
+  {
+    "OrderRequest": {
+      "OrderHeader": {
+        "ClientInformation": {
+          "ClientID": "LJ_RUZIC_JEDINICA_1",
+          "DeliveryPoint": "Split",
+          "Username": null,
+          "Password": null
+        },
+        "ReferenceNumber": "TRANSFER-2024-09-25",
+        "DocumentDate": "2024-09-25"
+      },
+      "OrderLine": {
+        "RequestOrderLine": [
+          {
+            "ArticleNumber": "26577",
+            "EAN": null,
+            "ATK": null,
+            "PharmacyArticleName": "ORONAZOL šampon",
+            "OrderQuantity": 55
+          },
+          {
+            "ArticleNumber": "75534",
+            "EAN": null,
+            "ATK": null,
+            "PharmacyArticleName": "ARTHROSUPPORT Intensive 60 tbl",
+            "OrderQuantity": 50
+          },
+          {
+            "ArticleNumber": "26568",
+            "EAN": null,
+            "ATK": null,
+            "PharmacyArticleName": "IBUDOLOR Direkt 400mg",
+            "OrderQuantity": 20
+          },
+          {
+            "ArticleNumber": "04126",
+            "EAN": null,
+            "ATK": null,
+            "PharmacyArticleName": "IMMUN 44 sirup 300ml",
+            "OrderQuantity": 3
+          },
+          {
+            "ArticleNumber": "22969",
+            "EAN": null,
+            "ATK": null,
+            "PharmacyArticleName": "ITAMI 140MG 5kom",
+            "OrderQuantity": 5
+          },
+          {
+            "ArticleNumber": "13148",
+            "EAN": null,
+            "ATK": null,
+            "PharmacyArticleName": "PROSTENAL CONTROL TAB 60pcs",
+            "OrderQuantity": 5
+          },
+          {
+            "ArticleNumber": "02106",
+            "EAN": null,
+            "ATK": null,
+            "PharmacyArticleName": "ZALDIAR 37,5mg/325mg tbl a'30",
+            "OrderQuantity": 250
+          },
+          {
+            "ArticleNumber": "02108",
+            "EAN": null,
+            "ATK": null,
+            "PharmacyArticleName": "ZALDIAR 37,5mg/325mg tbl a'50",
+            "OrderQuantity": 20
+          }
+        ]
+      }
+    }
+  }
+]
